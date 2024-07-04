@@ -6,7 +6,7 @@ this tool automatic send massage in particular number by time delay you choose
 
 1:   sudo apt install git
 
-2:   pip install pyautogui pywhatkit  pyfiglet colorama 
+2:    pip install –r requirements.txt 
 
 3:   git clone https://github.com/drxMalick123/WhatsApp-auto-massage-sender.git
 
